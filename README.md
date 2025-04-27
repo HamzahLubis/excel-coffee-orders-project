@@ -1,3 +1,7 @@
+![Excel Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+![Visualization](https://img.shields.io/badge/Visualization-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # ☕️ Excel Coffee Orders Project
 Welcome to the **Excel Coffee Orders Project** repository!
 An interactive Excel dashboard designed to monitor coffee sales performance, customer behavior, and market trends over time.
@@ -35,7 +39,8 @@ It encompasses data cleaning, preparation, visualization, and analysis to suppor
 
 ---
 ## 📈 Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/e6015578-472b-457a-bdfe-541637a52db3)
+![dashboard-demo](https://github.com/user-attachments/assets/9992a269-a788-4733-9dcd-c6b5bdc741a7)
+
 
 ---
 ## 🧬 Tools Used
