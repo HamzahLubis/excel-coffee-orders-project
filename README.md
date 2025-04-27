@@ -1,2 +1,68 @@
 # ☕️ Excel Coffee Orders Project
-Developed an interactive Excel dashboard to analyze coffee sales, customer behavior, and market trends by utilizing pivot tables, charts, slicers, and advanced data cleaning techniques, providing stakeholders with actionable insights for strategic decision-making.
+Welcome to the **Excel Books Inventory Management Project and Analytics Project** repository!
+An interactive Excel dashboard designed to monitor coffee sales performance, customer behavior, and market trends over time.
+
+---
+## 📖 Project Overview
+This project delivers an Excel-based dashboard providing actionable insights into coffee orders.
+It encompasses data cleaning, preparation, visualization, and analysis to support strategic business decisions.
+
+🎯 Objective:
+ - Track total sales trends over time.
+ - Analyze customer purchase behavior.
+ - Identify top-performing products, customers, and regions.
+ - Understand the impact of loyalty programs and roast type preferences.
+ - Enable dynamic filtering and deeper data exploration.
+
+---
+## 🛠️ Project Scope
+ - Data Sources: Coffee order data provided in Excel format.
+ - Data Cleaning: Standardize date formats, correct inconsistencies.
+ - Analytics: Sales performance over time, customer segmentation, regional sales analysis, product category analysis
+ - Visualization: Build an interactive dashboard with slicers, filters, and multiple visual elements.
+ 
+---
+## 📊 Key Questions (KPIs)
+ - How have sales and orders changed over time?
+ - Which month achieved the highest sales and order volume?
+ - Who purchases more: Men or Women?
+ - What are the different order statuses in 2022?
+ - What are the top 10 states contributing most to sales?
+ - How does age relate to order volume by gender?
+ - Which channel contributes the most to sales?
+ - What is the highest selling coffee type?
+ - What percentage of total orders were delivered successfully?
+
+---
+## 📈 Dashboard Preview
+![Dashboard](https://github.com/user-attachments/assets/e6015578-472b-457a-bdfe-541637a52db3)
+
+---
+## 🧬 Tools Used
+ - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
+ - Basic Excel Formulas for Data Preparation (XLOOKUP, VLOOKUP, IF, INDEX)
+
+---
+## 📄 Conclusion
+This dashboard enables real-time tracking of sales metrics, customer behavior, and product performance,
+offering a powerful tool for decision-makers to fine-tune strategies and improve business outcomes.
+
+---
+## 🔢 Potential Future Improvements
+ - Implement forecasting to predict future sales trends.
+ - Add order status breakdown by product and region.
+ - Include deeper demographic analysis (age group segmentation).
+
+---
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+## 🌟 About Me
+
+Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial Engineer specializing in process improvement!
+
+Let's stay in touch! Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhamzahsyafiqlubis)
