@@ -1,5 +1,5 @@
 # ☕️ Excel Coffee Orders Project
-Welcome to the **Excel Books Inventory Management Project and Analytics Project** repository!
+Welcome to the **Excel Coffee Orders Project** repository!
 An interactive Excel dashboard designed to monitor coffee sales performance, customer behavior, and market trends over time.
 
 ---
