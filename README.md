@@ -4,7 +4,7 @@
 
 # ☕️ Excel Coffee Orders Project
 Welcome to the **Excel Coffee Orders Project** repository!
-An interactive Excel dashboard designed to monitor coffee sales performance, customer behavior, and market trends over time.
+<br>An interactive Excel dashboard designed to monitor coffee sales performance, customer behavior, and market trends over time.
 
 ---
 ## 📖 Project Overview
@@ -68,6 +68,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial Engineer specializing in process improvement!
 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
+Let's stay in touch! Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhamzahsyafiqlubis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzahsyafiqlubis/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hamzah.syafiq@gmail.com)
